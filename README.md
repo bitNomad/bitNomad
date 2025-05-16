@@ -1,16 +1,28 @@
-## Hi there 👋
+# Read **ME**
 
-<!--
-**bitNomad/bitNomad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+bitNomad (sometimes b17Nomad)  
+\[ bit Noh-mad ]  
+/ bɪt ˈNoʊ mæd /  
 
-Here are some ideas to get you started:
+sometimes spectacular success, oft spectacular failure; never boring!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hire me
+
+\[$LinkedIn]  
+\[Pages]
+
+## Know me
+
+\[Grime Lab]  
+\[Band c(r)amp]  
+
+## Grow me
+
+Zettelkasten | Digital Garden | Second Brain  
+Static Site Generators \[Hugo, Eleventy, ?]  
+Sound Design  
+Resume as code  
+
+## Show me
+**WHAT YOU GOT**
+
